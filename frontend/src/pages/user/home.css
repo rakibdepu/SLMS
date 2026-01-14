@@ -117,7 +117,7 @@ body {
       rgba(30, 50, 70, 0.9) 0%, 
       rgba(30, 50, 70, 0.6) 50%,
       rgba(30, 50, 70, 0.3) 100%),
-    url('/assets/library.avif') center/cover no-repeat;
+    url('/assets/library.jpg') center/cover no-repeat;
   color: white;
 }
 
