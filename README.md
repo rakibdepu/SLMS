@@ -7,7 +7,7 @@
 Clone the project repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/KaranMehta1806/Library-Management.git
+git clone https://github.com/rakibdepu/SLMS.git
 ```
 
 ### 2. Install Dependencies
